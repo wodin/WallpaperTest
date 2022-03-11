@@ -1,3 +1,4 @@
+import "expo-dev-client";
 import { View, TouchableOpacity, Text } from "react-native";
 import ManageWallpaper, { TYPE } from "react-native-manage-wallpaper";
 
